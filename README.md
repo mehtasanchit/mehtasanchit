@@ -17,8 +17,10 @@
 ###
 
 ### 🧠 Currently Working On
-**HindBrain** — An app like “Second Brain” to store YouTube videos and Twitter threads for organized learning.  
-🔧 Built with: **MERN Stack** (MongoDB, Express, React, Node.js), **TailwindCSS**, and **LangChain**
+
+[**HindBrain**](https://github.com/mehtasanchit/HindBrain) — An app  to store Your Important YouTube videos Articles and Twitter threads for organized learning.  
+🔧 Built with: **MERN Stack** (MongoDB, Express, React, Node.js), **TypeScript**, **TailwindCSS**
+
 
 
 ---
