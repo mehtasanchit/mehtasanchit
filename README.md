@@ -1,7 +1,7 @@
 <!-- 🖼️ Banner Image -->
 <img src="https://github.com/mehtasanchit/mehtasanchit/blob/main/banner.png?raw=true" width="100%" alt="Web Developer Banner" />
 
-<h2 align="left">Hi 👋! My name is Sanchit Mehta and I'm a Web Developer, from India 🇮🇳</h2>
+<h2 align="left">Hi 👋! My name is Sanchit Mehta and I'm a Web Developer, from India</h2>
 
 ###
 
@@ -17,8 +17,9 @@
 ###
 
 ### 🧠 Currently Working On
-**HindBrain** — An app like “Second Brain” to save YouTube videos, Twitter threads, and organize personal knowledge.  
-🔧 Built with: **Next.js**, **MongoDB**, **TailwindCSS**, **LangChain**
+**HindBrain** — An app like “Second Brain” to store YouTube videos and Twitter threads for organized learning.  
+🔧 Built with: **MERN Stack** (MongoDB, Express, React, Node.js), **TailwindCSS**, and **LangChain**
+
 
 ---
 
