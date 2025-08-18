@@ -18,7 +18,7 @@
 
 ### 🧠 Currently Working On
 
-[**HindBrain**](https://github.com/mehtasanchit/HindBrain) — An app  to store Your Important YouTube videos Articles and Twitter threads for organized learning.  
+[**HindBrain**](https://github.com/mehtasanchit/HindBrain) — An app to store your important YouTube videos, articles, and Twitter threads for organized learning.  
 🔧 Built with: **MERN Stack** (MongoDB, Express, React, Node.js), **TypeScript**, **TailwindCSS**
 
 
@@ -27,8 +27,8 @@
 
 ### 🚀 Featured Projects
 
-- 🔗 [**CourseWala**](https://github.com/mehtasanchit/coursewala)  
-  A course platform with secure checkout via **Stripe**, responsive UI, and category-based course listings.
+- 🔗 [**Picaso**](https://github.com/mehtasanchit/picaso)  
+  A collaborative whiteboard app with real-time drawing, WebSocket support, and multi-user collaboration.
 
 - 📄 [**Automated Resume Scanner**](https://github.com/mehtasanchit/automated-resume-scanner)  
   Built using **Flask**, **SpaCy**, and **Selenium** to extract resume info and match LinkedIn jobs.
@@ -74,8 +74,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git/Github"/>
-
-
+</div>
 
 ---
 
