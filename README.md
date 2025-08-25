@@ -78,7 +78,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### ​ Connect With Me
 
 <div align="left">
   <a href="mailto:mehtasanchit3@gmail.com" target="_blank">
@@ -96,7 +96,11 @@
   <a href="https://www.geeksforgeeks.org/user/mehtasa0hk8/" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" />
   </a>
+  <a href="https://codeforces.com/profile/mehtasanchit3" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" />
+  </a>
 </div>
+
 
 
 ---
