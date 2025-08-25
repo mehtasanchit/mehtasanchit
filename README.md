@@ -93,7 +93,11 @@
   <a href="https://leetcode.com/u/mehtasanchit3/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" height="35" />
   </a>
+  <a href="https://www.geeksforgeeks.org/user/mehtasa0hk8/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" height="35" />
+  </a>
 </div>
+
 
 ---
 
