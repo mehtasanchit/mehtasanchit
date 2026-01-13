@@ -6,9 +6,19 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehtasanchit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehtasanchit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Languages" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mehtasanchit&show_icons=true&theme=dracula"
+    height="150"
+    alt="GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mehtasanchit&layout=compact&langs_count=6&theme=dracula"
+    height="150"
+    alt="Top Languages"
+  />
 </div>
+
+
 
 ###
 
@@ -21,11 +31,13 @@
 [**HindBrain**](https://github.com/mehtasanchit/HindBrain) — An app to store your important YouTube videos, articles, and Twitter threads for organized learning.  
 🔧 Built with: **MERN Stack** (MongoDB, Express, React, Node.js), **TypeScript**, **TailwindCSS**
 
-
-
 ---
 
 ### 🚀 Featured Projects
+
+- 🔗 [**DevstackBackend**](https://github.com/mehtasanchit/DevstackBackend)  
+  A production-ready, modular backend framework with authentication, caching, rate limiting, email, and payment services.  
+  📦 **1600+ downloads on npm** | Built with **Node.js, Express, MongoDB, JWT**
 
 - 🔗 [**Picaso**](https://github.com/mehtasanchit/picaso)  
   A collaborative whiteboard app with real-time drawing, WebSocket support, and multi-user collaboration.
@@ -73,12 +85,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="Docker" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git/Github"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git/GitHub"/>
 </div>
 
 ---
 
-### ​ Connect With Me
+### 🔗 Connect With Me
 
 <div align="left">
   <a href="mailto:mehtasanchit3@gmail.com" target="_blank">
@@ -100,8 +112,6 @@
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" height="35" />
   </a>
 </div>
-
-
 
 ---
 
